@@ -1,4 +1,4 @@
-#### Simple Raphaeljs base EU-Map (as seen on episcope.eu)
+#### Simple Raphaeljs based EU-Map (as seen on episcope.eu)
 
 ![Screenshot](screenshot.png)
 
