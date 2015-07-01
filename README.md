@@ -9,7 +9,7 @@ HowTo customize (or recreate from scratch):
 #### TODO
 
 * Clean up the code
-* Use a prettier font from (Google Fonts)[https://www.google.com/fonts]
+* Use a prettier font from [Google Fonts](https://www.google.com/fonts)
 * Build a SVG only version (and ignore IE <9)
 
 Cheers,
