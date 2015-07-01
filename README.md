@@ -3,7 +3,7 @@
 HowTo customize (or recreate from scratch):
 
 1. Grab an "EU"-Map (SVG format!) from [Wikipedia](https://commons.wikimedia.org/wiki/Category:SVG_maps_of_Europe)
-2. Convert the SVG to [RaphaelJs](http://raphaeljs.com)
+2. [Convert](http://readysetraphael.com/) the SVG to [RaphaelJs](http://raphaeljs.com)
 3. Add some metadata + events
 
 #### TODO
